@@ -1,2 +1,3 @@
-# calculadora-gorjetas-
-Projeto iniciante com JavaScript 
+# Calculadora de Gorjetas
+
+Meu primeiro projeto de Front End utilizando JavaScrpt
