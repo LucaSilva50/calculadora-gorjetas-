@@ -1,3 +1,3 @@
 # Calculadora de Gorjetas
 
-Meu primeiro projeto de Front End utilizando JavaScrpt
+Projeto utilizando HTML, CSS e JavaScrpit
