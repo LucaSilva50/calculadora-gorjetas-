@@ -18,3 +18,6 @@ Para usar a calculadora de gorjetas, siga estes passos:
 - HTML
 - CSS
 - JavaScript
+
+### Github Pages
+https://lucaswsilva.github.io/calculadora-gorjetas/
