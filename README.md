@@ -15,9 +15,9 @@ Para usar a calculadora de gorjetas, siga estes passos:
 - Permite que o usuário personalize a qualidade do serviço com base em uma escala de 0 a 30%.
 
 ## Tecnologias utilizadas
-- HTML
-- CSS
-- JavaScript
+- <img src="https://img.shields.io/badge/-HTML5-orange"/>
+- <img src="https://img.shields.io/badge/-CSS3-blue" />
+- <img src="https://img.shields.io/badge/-JavaScript-yellow" />
 
 ### Github Pages
 https://lucaswsilva.github.io/calculadora-gorjetas/
